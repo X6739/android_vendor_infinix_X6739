@@ -95,7 +95,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6739/proprietary/vendor/bin/hw/android.hardware.graphics.allocator@4.0-service-mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.graphics.allocator@4.0-service-mediatek \
     vendor/infinix/X6739/proprietary/vendor/bin/hw/android.hardware.keymaster@4.1-service.trustonic:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.keymaster@4.1-service.trustonic \
     vendor/infinix/X6739/proprietary/vendor/bin/hw/android.hardware.lights-service.mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.lights-service.mediatek \
-    vendor/infinix/X6739/proprietary/vendor/bin/hw/android.hardware.media.c2@1.2-mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.media.c2@1.2-mediatek \
     vendor/infinix/X6739/proprietary/vendor/bin/hw/android.hardware.media.c2@1.2-mediatek-64b:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.media.c2@1.2-mediatek-64b \
     vendor/infinix/X6739/proprietary/vendor/bin/hw/android.hardware.neuralnetworks@1.3-service-mtk-neuron:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.neuralnetworks@1.3-service-mtk-neuron \
     vendor/infinix/X6739/proprietary/vendor/bin/hw/android.hardware.nfc@1.2-service-st:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.nfc@1.2-service-st \
@@ -617,7 +616,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6739/proprietary/vendor/data/camera/lut/videofilter/white/8.txt:$(TARGET_COPY_OUT_VENDOR)/data/camera/lut/videofilter/white/8.txt \
     vendor/infinix/X6739/proprietary/vendor/data/camera/lut/videofilter/white/readme.txt:$(TARGET_COPY_OUT_VENDOR)/data/camera/lut/videofilter/white/readme.txt \
     vendor/infinix/X6739/proprietary/vendor/data/camera/model/M_Segment_DoubleLoss_V1.model:$(TARGET_COPY_OUT_VENDOR)/data/camera/model/M_Segment_DoubleLoss_V1.model \
-    vendor/infinix/X6739/proprietary/vendor/data/camera/model/Transsion_20240415_2_nosoft.dla:$(TARGET_COPY_OUT_VENDOR)/data/camera/model/Transsion_20240415_2_nosoft.dla \
     vendor/infinix/X6739/proprietary/vendor/data/camera/model/animal_human_landmark_fp16.mnn:$(TARGET_COPY_OUT_VENDOR)/data/camera/model/animal_human_landmark_fp16.mnn \
     vendor/infinix/X6739/proprietary/vendor/data/camera/model/capture_sky.mnn:$(TARGET_COPY_OUT_VENDOR)/data/camera/model/capture_sky.mnn \
     vendor/infinix/X6739/proprietary/vendor/data/camera/model/eyes_detect_model:$(TARGET_COPY_OUT_VENDOR)/data/camera/model/eyes_detect_model \
@@ -2019,7 +2017,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6739/proprietary/vendor/lib64/AVCSecureVdecCA.so:$(TARGET_COPY_OUT_VENDOR)/lib64/AVCSecureVdecCA.so \
     vendor/infinix/X6739/proprietary/vendor/lib64/HEVCSecureVdecCA.so:$(TARGET_COPY_OUT_VENDOR)/lib64/HEVCSecureVdecCA.so \
     vendor/infinix/X6739/proprietary/vendor/lib64/VP9SecureVdecCA.so:$(TARGET_COPY_OUT_VENDOR)/lib64/VP9SecureVdecCA.so \
-    vendor/infinix/X6739/proprietary/vendor/lib64/android.hardware.power-service-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.power-service-mediatek.so \
     vendor/infinix/X6739/proprietary/vendor/lib64/audio_common-aidl-cpp.so:$(TARGET_COPY_OUT_VENDOR)/lib64/audio_common-aidl-cpp.so \
     vendor/infinix/X6739/proprietary/vendor/lib64/egl/libGLES_meow.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libGLES_meow.so \
     vendor/infinix/X6739/proprietary/vendor/lib64/egl/libMEOW_data.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libMEOW_data.so \

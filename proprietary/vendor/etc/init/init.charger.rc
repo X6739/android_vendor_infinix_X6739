@@ -5,6 +5,9 @@ on post-fs-data
     chown system system /sys/class/tran_class/water_detect/tran_wd_cmd
     #SDD:add OTG feature for TESSCR-6368 by weike.xu 20210512 end
 
+    #USD:add for otg get version by lei.shi5 20240904
+    chmod 0666 /sys/devices/platform/odm/odm:tran_otg/version_info
+
     #BSP: modify for battery aging feature XLBEPUB-6 by fan.hong 20200723 start
     chmod 0666 /sys/devices/platform/odm/odm:tran_battery_aging/AGING_FG
     chmod 0666 /sys/devices/platform/odm/odm:tran_battery_aging/AGING_CALCULATE
@@ -277,3 +280,6 @@ on property:persist.sys.mutilelvel.charge=6
 
 on property:sys.transsion.nvcolor=*
     write /sys/led/led/tran_multicolor ${sys.transsion.nvcolor}
+
+on property:sys.boot_completed=1
+    write /sys/devices/platform/odm/odm:tran_otg/version_info ${ro.build.display.id}

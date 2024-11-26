@@ -1,5 +1,5 @@
 {
-  "version": 20231020,
+  "version": 20240809,
   "support": "1",
   "game_list": [
     {
@@ -8,7 +8,8 @@
         "com.tencent.tmgp.pubgmhd",
         "com.tencent.ig",
         "com.rekoo.pubgm",
-        "com.vng.pubgmobile"
+        "com.vng.pubgmobile",
+        "com.pubg.imobile"
       ],
       "fps_common": {
         "thermal_core": {
