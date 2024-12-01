@@ -139,7 +139,6 @@
     <EccEntry Ecc="180" Category="0" Condition="10" Plmn="602 FFF" />
     <EccEntry Ecc="126" Category="0" Condition="10" Plmn="602 FFF" />
     <EccEntry Ecc="129" Category="0" Condition="10" Plmn="602 FFF" />
-    <EccEntry Ecc="140" Category="0" Condition="10" Plmn="602 FFF" />
 
     <EccEntry Ecc="333" Category="0" Condition="10" Plmn="634 FFF" />
     <EccEntry Ecc="777" Category="0" Condition="10" Plmn="634 FFF" />
@@ -360,6 +359,7 @@
     <EccEntry Ecc="118" Category="0" Condition="1" Plmn="510 11"/>
     <EccEntry Ecc="110" Category="0" Condition="1" Plmn="510 11"/>
     <EccEntry Ecc="113" Category="0" Condition="1" Plmn="510 89"/>
+    <EccEntry Ecc="115" Category="0" Condition="1" Plmn="510 89"/>
     <EccEntry Ecc="118" Category="0" Condition="1" Plmn="510 89"/>
     <EccEntry Ecc="110" Category="1" Condition="1" Plmn="510 89"/>
     <EccEntry Ecc="110" Category="0" Condition="2" Plmn="510 FFF" />
