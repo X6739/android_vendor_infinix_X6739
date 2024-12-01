@@ -1924,7 +1924,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6739/proprietary/vendor/lib/libvcodec_utility_v3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvcodec_utility_v3a.so \
     vendor/infinix/X6739/proprietary/vendor/lib/libvcodecdrv_header_stub.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvcodecdrv_header_stub.so \
     vendor/infinix/X6739/proprietary/vendor/lib/libvcodecdrv_v3a.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvcodecdrv_v3a.so \
-    vendor/infinix/X6739/proprietary/vendor/lib/libvibrator.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvibrator.so \
     vendor/infinix/X6739/proprietary/vendor/lib/libvp8dec_sa.ca7.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvp8dec_sa.ca7.so \
     vendor/infinix/X6739/proprietary/vendor/lib/libvp8enc_sa.ca7.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvp8enc_sa.ca7.so \
     vendor/infinix/X6739/proprietary/vendor/lib/libvp9dec_sa.ca7.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvp9dec_sa.ca7.so \
@@ -2707,7 +2706,6 @@ PRODUCT_COPY_FILES += \
     vendor/infinix/X6739/proprietary/vendor/lib64/libvendor.goodix.hardware.biometrics.fingerprint@2.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvendor.goodix.hardware.biometrics.fingerprint@2.1.so \
     vendor/infinix/X6739/proprietary/vendor/lib64/libvia-ril.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvia-ril.so \
     vendor/infinix/X6739/proprietary/vendor/lib64/libviamipc-ril.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libviamipc-ril.so \
-    vendor/infinix/X6739/proprietary/vendor/lib64/libvibrator.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvibrator.so \
     vendor/infinix/X6739/proprietary/vendor/lib64/libvideofilter_cl_64.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvideofilter_cl_64.so \
     vendor/infinix/X6739/proprietary/vendor/lib64/libvpu.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvpu.so \
     vendor/infinix/X6739/proprietary/vendor/lib64/libvpu5.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvpu5.so \
