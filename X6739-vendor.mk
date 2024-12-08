@@ -2847,18 +2847,18 @@ PRODUCT_PACKAGES += \
     mediatek-telecom-common \
     mediatek-telephony-base \
     mediatek-telephony-common \
-    android.hardware.biometrics.fingerprint@2.1-service-mediatek \
-    android.hardware.neuralnetworks@1.3-service-mtk-mdla-dsp-gpu \
-    gnss-mtk \
-    gnss@2.1-service \
-    lbs_hidl_service@1.0 \
-    lights-mtk-default \
-    manifest_android.hardware.drm@1.4-service.widevine \
-    manifest_hwcomposer \
-    manifest_media_c2_V1_1_default \
-    manifest_tneengine \
-    vendor.mediatek.hardware.tranHwInfo@1.0 \
-    vendor.transsion.hardware.trancam.trancamserver@1.0
+    android.hardware.biometrics.fingerprint@2.1-service-mediatek.xml \
+    android.hardware.neuralnetworks@1.3-service-mtk-mdla-dsp-gpu.xml \
+    gnss-mtk.xml \
+    gnss@2.1-service.xml \
+    lbs_hidl_service@1.0.xml \
+    lights-mtk-default.xml \
+    manifest_android.hardware.drm@1.4-service.widevine.xml \
+    manifest_hwcomposer.xml \
+    manifest_media_c2_V1_1_default.xml \
+    manifest_tneengine.xml \
+    vendor.mediatek.hardware.tranHwInfo@1.0.xml \
+    vendor.transsion.hardware.trancam.trancamserver@1.0.xml
 
 PRODUCT_PACKAGES += \
     libGLES_mali_libGLES_mali_symlink32 \

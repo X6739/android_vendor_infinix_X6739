@@ -136,6 +136,8 @@
 <virtualSpnOverride mccmncspn="41866Fastlink" name="Fastlink"/>
 <virtualSpnOverride mccmncspn="42402swyp" name="swyp"/>
 <virtualSpnOverride mccmncspn="42501012 Mobile" name="012 Mobile"/>
+<virtualSpnOverride mccmncspn="43404OQ" name="OQ"/>
+<virtualSpnOverride mccmncspn="43406PowerTel" name="Perfectum"/>
 <virtualSpnOverride mccmncspn="43407MOBIUZ" name="MOBIUZ"/>
 <virtualSpnOverride mccmncspn="45209reddi" name="reddi"/>
 <virtualSpnOverride mccmncspn="45209Wintel" name="Wintel"/>
