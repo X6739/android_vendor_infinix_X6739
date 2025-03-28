@@ -129,6 +129,7 @@
 <virtualSpnOverride mccmncspn="334140Redpotencia" name="Redpotencia"/>
 <virtualSpnOverride mccmncspn="334140RedPotencia" name="RedPotencia"/>
 <virtualSpnOverride mccmncspn="334140VALOR" name="VALOR"/>
+<virtualSpnOverride mccmncspn="40177ALTEL 4G" name="ALTEL 4G"/>
 <virtualSpnOverride mccmncspn="40486VodafoneIdea" name="VodafoneIdea"/>
 <virtualSpnOverride mccmncspn="41003Onic" name="Onic"/>
 <virtualSpnOverride mccmncspn="41866Fastlink" name="Fastlink"/>
@@ -157,9 +158,11 @@
 <virtualSpnOverride mccmncspn="51503TNT" name="TNT"/>
 <virtualSpnOverride mccmncspn="52000my" name="my"/>
 <virtualSpnOverride mccmncspn="52017K4" name="K4"/>
+<virtualSpnOverride mccmncspn="52017TOTmobile" name="TOTmobile"/>
 <virtualSpnOverride mccmncspn="60204we" name="we"/>
 <virtualSpnOverride mccmncspn="62405blue" name="blue"/>
 <virtualSpnOverride mccmncspn="63903Equitel" name="Equitel"/>
+<virtualSpnOverride mccmncspn="65501Mr Price Mobile" name="Mr Price Mobile"/>
 <virtualSpnOverride mccmncspn="65507k&apos;nect mobile" name="k&apos;nect mobile"/>
 <virtualSpnOverride mccmncspn="65507Capitec" name="Capitec"/>
 <virtualSpnOverride mccmncspn="65507Virgin Mobile" name="Virgin Mobile"/>
